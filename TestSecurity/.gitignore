@@ -1,0 +1,13 @@
+# Ignore target folder
+/target/
+
+# Ignore IDE settings
+/.idea/
+/.vscode/
+
+# Ignore environment variables
+.env
+
+# Ignore credentials (never commit)
+application-secret.properties
+
